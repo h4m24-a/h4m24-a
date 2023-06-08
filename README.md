@@ -6,9 +6,9 @@ The Odin Project and Full Stack Open have provided me with the required skills t
 environment. Keen to share with you what I have learnt and explore new ways of working.
 <br />
 
-<h2  align="center"> ⚡ Languages</h2>
+<h2  align="left"> ⚡ Languages</h2>
 
-<p align="center">
+<p align="left">
 <img alt="HTML" width="50px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="CSS" width="50px" style="margin:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="JavaScript" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -20,9 +20,9 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <br />
 
 
-<h2  align="center"> ⚙ Tools</h2>
+<h2  align="left"> ⚙ Tools</h2>
 
-<p align="center">
+<p align="left">
 <img  alt="Git" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img  alt="GitHub" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img  alt="VsCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
