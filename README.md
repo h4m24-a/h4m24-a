@@ -1,4 +1,4 @@
-<h1  align="center"> Hi, I'm Hamza 👋</h2>
+<h1  align="left"> Hi, I'm Hamza 👋</h2>
 
 <p  align="left">Graduate looking for Software Engineering opportunities. Recent development experiences include working on
 The Odin Project and Full Stack Open have provided me with the required skills to work in a commercial
