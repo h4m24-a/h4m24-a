@@ -20,8 +20,6 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <img  alt="androidstudio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </p>
 
-
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4m24-a)](https://github.com/h4m24-a/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4m24-a&layout=compact)
