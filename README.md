@@ -19,6 +19,7 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <p align="left">
 <img alt="bootstrap" style="padding-right:10px;" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img alt="tailwindcss" style="padding-right:10px;" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+<img alt="jest" style="padding-right:10px;" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" />
 <img alt="mysql" style="padding-right:10px;" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 </p>
 
