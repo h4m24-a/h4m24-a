@@ -28,9 +28,9 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <img alt="Git"  style="padding-right:10px;"  src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 <img alt="GitHub"  style="padding-right:10px;"  src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
 <img alt="VsCode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
+<img alt="webpack" style="padding-right:10px;" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" />  
 <img alt="androidstudio" style="padding-right:10px;" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" />
 <img alt="photoshop" style="padding-right:10px;" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
-<img alt="illustrator" style="padding-right:10px;" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" />  
 </p>
 
 #
