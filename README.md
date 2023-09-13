@@ -4,7 +4,6 @@ The Odin Project and Full Stack Open have provided me with the required skills t
 environment. Keen to share with you what I have learnt and explore new ways of working.
 </p>
 
-
 <h2 align="left">Languages</h2>
 <p align="left">
 <img alt="HTML"  style="margin:10px;" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
