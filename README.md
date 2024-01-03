@@ -1,5 +1,5 @@
 <h1 align="left"> Hi, I'm Hamza 👋</h2>
-<p align="left">Graduate looking for Software Developer opportunities. Recent development experiences include working on
+<p align="left">Looking for Web Developer opportunities. Recent development experiences include working on
 The Odin Project and Full Stack Open have provided me with the required skills to work in a commercial
 environment. Keen to share with you what I have learnt and explore new ways of working.
 </p>
