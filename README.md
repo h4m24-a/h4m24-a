@@ -25,7 +25,6 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <h2 align="left">Tools</h2>
 <p allign="left">
 <img alt="nodejs"  style="padding-right:10px;"  src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img alt="Git"  style="padding-right:10px;"  src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
 <img alt="VsCode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 <img alt="webpack" style="padding-right:10px;" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" />  
 <img alt="webpack" style="padding-right:10px;" src= https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white /> 
