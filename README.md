@@ -17,6 +17,8 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <h2 align="left">Frameworks</h2>
 <p align="left">
 <img alt="react" style="padding-right:10px;" src=https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black />
+<img alt="nodejs"  style="padding-right:10px;"  src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img alt="express.js"  style="padding-right:10px;"  src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" />
 <img alt="tailwindcss" style="padding-right:10px;" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
 <img alt="bootstrap" style="padding-right:10px;" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" />
 <img alt="jest" style="padding-right:10px;" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" />
@@ -32,7 +34,6 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 
 <h2 align="left">Tools</h2>
 <p allign="left">
-<img alt="nodejs"  style="padding-right:10px;"  src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img alt="VsCode" style="padding-right:10px;" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
 <img alt="webpack" style="padding-right:10px;" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" />  
 <img alt="webpack" style="padding-right:10px;" src= https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white /> 
