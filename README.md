@@ -28,6 +28,7 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <h2 align="left">Database</h2>
 <p align="left">
 <img alt="mysql" style="padding-right:10px;" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+<img alt="mysql" style="padding-right:10px;" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 <img alt="mongodb" style="padding-right:10px;" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
 </p>
 
