@@ -11,7 +11,6 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <img alt="CSS" style="margin:50px;" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
 <img alt="JavaScript" style="margin-right:10px;" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
 <img alt="PHP" style="margin-right:10px;" src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
-<img alt="Java" style="margin-right:10px;" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)" />  
 </p>
 
 <h2 align="left">Frameworks</h2>
