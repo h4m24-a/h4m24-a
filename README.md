@@ -40,7 +40,3 @@ environment. Keen to share with you what I have learnt and explore new ways of w
 <img alt="androidstudio" style="padding-right:10px;" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android-Studio&logoColor=white" />
 <img alt="photoshop" style="padding-right:10px;" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
 </p>
-
-#
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h4m24-a&layout=compact)
